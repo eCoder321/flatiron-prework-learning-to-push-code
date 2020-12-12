@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is the Git Basics Lab test
 =======
 This is the README of the new repo
